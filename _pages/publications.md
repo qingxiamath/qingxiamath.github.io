@@ -30,10 +30,3 @@ author_profile: true
 ## Submitted
 
 ## In preparation
-<!-- <ul>
-    <!-- <li>Y. Epshteyn, K. R. Steffen, and <b>Q. Xia</b>, Difference Potentials Method for the Mullins-Sekerka model, <em>in progress</em>.</li> -->
-    <li> J. W. Banks, W. D. Henshaw, G. Kova&#269i&#269, D. W. Schwendeman and <b>Q. Xia</b>, High-order schemes for multi-level Maxwell-Bloch equations with material interfaces
-    </li>
-    <li><b>Q. Xia</b>, L. J. Prokopeva, J. W. Banks, W. D. Henshaw, G. Kovacic, D. W. Schwendeman and A. V. Kildishev, Advancing Computational Nanophotonics. Part 1. Temporal Multiscale (TMS) Analysis of Nonlinear Material Models with Carrier Kinetics
-    </li>
-</ul> -->

@@ -6,4 +6,3 @@ author_profile: true
 ---
 
 ## Difference Potentials Method
-## Under construction

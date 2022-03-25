@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -18,11 +18,11 @@ main:
   - title: "Misc"
     url: /misc/ 
 
-  - title: "Seminars"
-    url: /seminars/
+  # - title: "Seminars"
+  #   url: /seminars/
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Resources"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
