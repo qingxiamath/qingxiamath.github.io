@@ -1,6 +1,6 @@
 ---
 title: "Joint NA Seminars 2022"
-excerpt: "This is a webpage for the joint Numerical Analysis (NA) Seminar (KTH & Stockholm University). Please email qingx@kth.se to subscribe to the mailing list na-sem@math.kth.se if you would like to get weekly reminders about the seminars, or to suggest seminar speakers."
+excerpt: "This is a webpage for the joint Numerical Analysis (NA) Seminar (KTH & Stockholm University). Please email [qingx@kth.se](qingx@kth.se) to subscribe to the mailing list [na-sem@math.kth.se](na-sem@math.kth.se) if you would like to get weekly reminders about the seminars, or to suggest seminar speakers."
 collection: portfolio
 ---
 
