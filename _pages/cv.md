@@ -1,22 +1,24 @@
 ---
 layout: archive
-title: "Bio"
-permalink: /bio/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 ## Education
-* B.S., Central University of Finance and Economics, 2012
 * Ph.D, University of Utah, 2019
+* B.S., Central University of Finance and Economics, 2012
 
 ## Work experience
-* Postdoctoral Research Associate
+* Dahlquist Research Fellow, 2021 - 
+  * KTH Royal Institute of Technology
+* Postdoctoral Research Associate, 2019 - 2021
   * Rensselaer Polytechnic Institute
   
-## Skills
+<!-- ## Skills
 * Language
   * Chinese
   * English
-* Fortran, C++, Matlab, R, Python
+* Fortran, C++, Matlab, R, Python -->

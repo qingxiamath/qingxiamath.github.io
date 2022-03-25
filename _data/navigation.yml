@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /bio/
+  - title: "CV"
+    url: /cv/
   
   - title: "Research"
     url: /research/
@@ -17,6 +17,9 @@ main:
 
   - title: "Misc"
     url: /misc/ 
+
+  - title: "Seminars"
+    url: /seminars/
     
   # - title: "Portfolio"
   #   url: /portfolio/
