@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Dahlquist Research Fellow in Numerical Analysis at KTH Mathematics Department. Before coming to KTH, I spent two years as a postdoc at Rensselaer Polytechnic Institute (RPI) working. At RPI, I worked as postdoctoral research fellow with Prof. [Jeff Banks](http://homepages.rpi.edu/~banksj3/), Prof. [Gregor Kovacic](http://homepages.rpi.edu/~kovacg/), Prof. [Bill Henshaw](http://homepages.rpi.edu/~henshw/) and Prof. [Donald Schwendeman](https://homepages.rpi.edu/~schwed/)  on computational nanophotonics. 
-I completed my PhD's degree in Mathematics under the supervision of Prof. [Yekaterina Epshteyn](https://www.math.utah.edu/~epshteyn/) at the University of Utah, and my Bachelor's degree in Applied Mathematics at Central University of Finance and Economics in Beijing.
+I am currently a Dahlquist Research Fellow in Numerical Analysis at Mathematics Department, KTH Royal Institute of Technology. Before coming to KTH, I worked as a postdoctoral research fellow in the group of [Jeff Banks](http://homepages.rpi.edu/~banksj3/), [Gregor Kovacic](http://homepages.rpi.edu/~kovacg/), [Bill Henshaw](http://homepages.rpi.edu/~henshw/) and [Donald Schwendeman](https://homepages.rpi.edu/~schwed/)  on computational nanophotonics. 
+I completed my PhD's degree in Mathematics under the supervision of [Yekaterina Epshteyn](https://www.math.utah.edu/~epshteyn/) at the University of Utah, and my Bachelor's degree in Applied Mathematics at Central University of Finance and Economics in Beijing.
 
 Research Interests
 ======
