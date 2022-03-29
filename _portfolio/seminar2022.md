@@ -185,3 +185,32 @@ Speaker: Yekaterina Epshteyn (Utah)
 
 Title, abstract: TBA
 
+## Week 22
+
+Holiday
+
+## Week 23
+
+Time: Thu 2022-06-02 14.00-15.00
+
+Speaker:  Maxence Cassier (CNRS)
+
+Title, abstract and location: TBA
+
+## Week 24
+
+Time: Thu 2022-06-09 14.00-15.00
+
+Speaker:  Stefano Ottolenghi (SU)
+
+Title, abstract and location: TBA
+
+## Week 25
+
+Time: Thu 2022-06-09 14.00-15.00
+
+Speaker:  Ozan Öktem (KTH)
+
+Location:  KTH, 3721, Lindstedsvägen 25
+
+Title, abstract: TBA
