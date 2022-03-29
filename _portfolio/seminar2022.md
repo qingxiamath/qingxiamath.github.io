@@ -207,7 +207,7 @@ Title, abstract and location: TBA
 
 ## Week 25
 
-Time: Thu 2022-06-09 14.00-15.00
+Time: Thu 2022-06-16 14.00-15.00
 
 Speaker:  Ozan Öktem (KTH)
 
