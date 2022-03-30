@@ -18,11 +18,11 @@ main:
   - title: "Misc"
     url: /misc/ 
 
-  # - title: "Seminars"
-  #   url: /seminars/
+  - title: "Seminars"
+    url: /seminars/
     
-  - title: "Resources"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #  url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
