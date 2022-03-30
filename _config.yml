@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qing Xia"
   avatar           : "profile.png"
-  bio              : "Dahlquist Fellow @ KTH"
-  location         : "Stockholm"
+  bio              : "Postdoc @ KTH"
+  location         : "Stockholm, SE"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-20OVv4AAAAJ&hl=en"
@@ -184,6 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  seminars:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _seminars
+  - scope:
+      path: ""
+      type: seminars
     values:
       layout: single
       author_profile: true
