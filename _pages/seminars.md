@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Seminars"
+permalink: /seminars/
+author_profile: true
+---
+
+This is a webpage for the joint Numerical Analysis (NA) Seminar (KTH & Stockholm University). Please email [qingx@kth.se](qingx@kth.se) to subscribe to the mailing list [na-sem@math.kth.se](na-sem@math.kth.se) if you would like to get weekly reminders about the seminars, or to suggest seminar speakers.
+
+{% include base_path %}
+
+{% for post in site.seminars %}
+  {% include archive-single.html %}
+{% endfor %}
+
