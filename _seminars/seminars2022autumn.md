@@ -35,11 +35,11 @@ Abstract:
 
 Title: 
 
-Time:
+Time: 2022-09-15, 14.00-15.00
 
-Speaker: 
+Speaker: Jiahua Jiang (Birmingham)
 
-Location:
+Location: KTH, 3721, Lindstedsvägen 25
 
 Abstract:
 
