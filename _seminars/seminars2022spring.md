@@ -130,11 +130,15 @@ Abstract: The deformation of ice can accurately be modeled as non-linear Stokes 
 
 ## Week 14
 
+Title: Finite-difference methods for wave propagation problems including moving features
+
 Time: Thu 2022-04-07 14.00-15.00
 
 Speaker: Ylva Rydin (Uppsala)
 
-Title, abstract and location: TBA
+Location: KTH, Seminar room 3418, Lindstedsvägen 25
+
+Abstract: In this talk, high-order summation-by-parts (SBP) finite difference methods for time-dependent wave propagation problems will be discussed. It is well known that high-order finite difference methods have good properties for solving wave propagation problems efficiently. However, real-world problems often include complicated features such as complex geometries, non-linearities, or non-smooth data that may ruin the accuracy of SBP finite difference methods. In this talk, I will present methods for constructing accurate high-order finite difference schemes for problems including two such features: moving boundaries and moving point sources.
 
 ## Week 15
 
