@@ -158,7 +158,7 @@ Title, abstract: TBA
 
 ### Talk 1
 
-Time: Thu 2022-04-26 14.00-15.00
+Time: **Tue** 2022-04-26 14.00-15.00
 
 Speaker: Chen Gong (Dartmouth)
 
@@ -168,7 +168,7 @@ Title, abstract: TBA
 
 ### Talk 2
 
-Time: Thu 2022-04-28 14.00-15.00
+Time: **Thu** 2022-04-28 14.00-15.00
 
 Speaker:  Ludovic Räss (ETH)
 
@@ -203,7 +203,7 @@ Title, abstract: TBA
 
 ## Week 21
 
-Time: TBA
+Time: **Mon** 2022-05-23 14.00-15.00
 
 Location: KTH, 3721, Lindstedsvägen 25
 
