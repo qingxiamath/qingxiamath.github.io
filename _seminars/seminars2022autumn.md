@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Sept. 1](#week-35)， [Sept. 8](#week-36)， [Sept. 15](#week-37)， [Sept. 22](#week-38)， [Sept. 29](#week-39)， [Oct. 6](#week-40)， [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 3](#week-44)
+[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40)， [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 3](#week-44)
 
 ## Week 35
 
