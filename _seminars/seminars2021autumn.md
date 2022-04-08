@@ -83,6 +83,6 @@ Time: Thu 2021-12-16 14.00 - 15.00
 
 Location: KTH, Seminar room 3721, Lindstedsvägen 25
 
-Lecturer: Jennifer Ryan (Colorado School of Mines)
+Speaker: Jennifer Ryan (Colorado School of Mines)
 
 Abstract: Many numerical simulations produce data that contains hidden information. This hidden information can be exploited to create even more accurate representations of the data by appropriately constructing convolution post-processors. In this presentation we address one particular form of data — that produced by discontinuous Galerkin finite element methods. Specifically, a discussion how the Smoothness-Increasing Accuracy-Conserving (SIAC) post-processing filter takes advantage of the information hidden in the numerical solution. Previous work focused on adapting the convolution kernel for boundaries, unstructured grids, and non-smooth solutions. This presentation will focus on identifying where this hidden accuracy comes from, why the hidden accuracy is important, and how to construct convolution post-processors to take advantage of this information in order to reduce the computational cost of multi-dimensional post-processing.
