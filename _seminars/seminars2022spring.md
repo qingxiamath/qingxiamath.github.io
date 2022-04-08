@@ -203,7 +203,13 @@ Title, abstract: TBA
 
 ## Week 21
 
-Holiday
+Time: TBA
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Speaker: Richard Tsai (UT Austin)
+
+Title, abstract: TBA
 
 ## Week 22
 
