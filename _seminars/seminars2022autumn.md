@@ -85,7 +85,7 @@ Time: 2022-09-15, 14.00-15.00
 
 Speaker: Qinghai Zhang (Zhejiang University)
 
-Location: Zoom
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
 Abstract:
 
