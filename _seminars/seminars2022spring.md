@@ -146,13 +146,17 @@ Easter Break
 
 ## Week 16
 
-Time: Thu 2022-04-21 14.00-15.00
-
-Location: Zoom https://kth-se.zoom.us/j/63299293349
+Title: Connecting random fields on manifolds and stochastic partial differential equations in simulations
 
 Speaker: Annika Lang (Chalmers)
 
-Title, abstract: TBA
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
+
+Time: Thursday, Apr 21, 2022, 14.00-15.00
+
+Abstract: Random fields on manifolds can be used as building blocks for solutions to stochastic partial differential equations or they can be described by stochastic partial differential equations. In this talk I present recent developments in numerical approximations of random fields and solutions to stochastic partial differential equations on manifolds and connect the two. More specifically, we look at the stochastic wave equation on the sphere and approximations of Gaussian random fields on manifolds using suitable finite element methods. Throughout the talk, theory and convergence analysis are combined with numerical examples and simulations.
+
+This talk is based on joint work with David Cohen, Erik Jansson, Mihály Kovács, and Mike Pereira.
 
 ## Week 17
 
