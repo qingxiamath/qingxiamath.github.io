@@ -9,15 +9,15 @@ collection: seminars
 
 ## Week 35
 
-Title: 
+Title: TBA
 
-Time:
+Time: 2022-09-01, 14.00-15.00
 
-Speaker: 
+Speaker: Yeonjong Shin (KAIST)
 
-Location:
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
-Abstract:
+Abstract: TBA
 
 ## Week 36
 
@@ -33,7 +33,7 @@ Abstract:
 
 ## Week 37
 
-Title: 
+Title: TBA
 
 Time: 2022-09-15, 14.00-15.00
 
@@ -41,19 +41,19 @@ Speaker: Jiahua Jiang (Birmingham)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: TBA
 
 ## Week 38
 
-Title: 
+Title: TBA
 
-Time:
+Time: 2022-09-22, 14.00-15.00
 
-Speaker: 
+Speaker: Joar Bagge (KTH)
 
-Location:
+Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: TBA
 
 ## Week 39
 
