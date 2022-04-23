@@ -168,7 +168,7 @@ Time: **Tue** 2022-04-26 14.00-15.00
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Lecturer: Cheng Gong (Dartmouth College)
+Speaker: Cheng Gong (Dartmouth College)
 
 Abstract: Predictions of future sea-level rise due to the mass loss from ice sheets are afflicted with uncertainty, caused mainly by insufficient understanding of spatiotemporally variable processes at the inaccessible base and the interior of ice sheets for which few direct observations exist and of which basal friction and ice rheology are the prime examples. Here, we present an inverse modeling framework for studying the relationship between bed and surface processes of ice sheets and glaciers. We derive time-dependent adjoint equations from a full Stokes model and a shallow-shelf/shelfy-stream approximation model, respectively, to determine the sensitivity of surface velocities to the perturbations in basal conditions. A closed form of the analytical solutions to the adjoint equations is given with a two-dimensional example for interpreting the physical meaning of the sensitivity analysis. Helheim Glacier, as an example, is then solved with Automatic Differentiation to quantify the transient sensitivity of the ice flux near the terminus to changes in basal frictions and ice rheology. These sensitivities highlight the regions where each parameter may contribute the most to changes in ice flux and which process should be properly captured by numerical models in order to accurately project the future response.
 
@@ -180,7 +180,7 @@ Time: **Thu** 2022-04-28 14.00-15.00
 
 Location: Zoom https://stockholmuniversity.zoom.us/j/62889720565
 
-Lecturer: Ludovic Räss (ETH)
+Speaker: Ludovic Räss (ETH)
 
 Abstract: Since over a decade, graphical processing units (GPUs) power supercomputers and are about to soon achieve exascale processing capabilities. However, the development of highly efficient, robust and scalable numerical algorithms lags behind this rapid increase in massive parallelism of modern hardware. This current situation challenges legacy solvers' implementations and provides rooms for new development. In this presentation, I will discuss recent advances in the field of accelerated iterative solvers designed for massively parallel implementations. I will further discuss main performance limitations, scalability, and provide insights into some challenges related to resolving full-Stokes coupled to thermal and hydrological processes in 3D over complex topography.
 
