@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Jan 27](#week-4), [Feb 3](#week-5), [Feb 10](#week-6), [Feb 17](#week-7), [Feb 24](#week-8), [Mar 3](#week-9), [Mar 10](#week-10), [Mar 17](#week-11), [Mar 24](#week-12), [Mar 31](#week-13), [Apr 7](#week-14), [Apr 14](#week-15), [Apr 21](#week-16), [Apr 28](#week-17), [May 5](#week-18), [May 12](#week-19), [May 19](#week-20), [May 26](#week-21), [Jun 2](#week-22), [Jun 9](#week-23), [Jun 16](#week-24).
+[Jan 27](#week-4), [Feb 3](#week-5), [Feb 10](#week-6), [Feb 17](#week-7), [Feb 24](#week-8), [Mar 3](#week-9), [Mar 10](#week-10), [Mar 17](#week-11), [Mar 24](#week-12), [Mar 31](#week-13), [Apr 7](#week-14), [Apr 14](#week-15), [Apr 21](#week-16), [Apr 28](#week-17), [May 5](#week-18), [May 12](#week-19), [May 19](#week-20), [May 23](#week-21), [Jun 2](#week-22), [Jun 9](#week-23), [Jun 16](#week-24).
 
 ## Week 4
 
