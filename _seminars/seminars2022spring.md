@@ -213,13 +213,16 @@ Title, abstract: TBA
 
 ## Week 21
 
+Title: Side-effects of Learning from Low Dimensional Data Embedded in an Euclidean Space
+
 Time: **Mon** 2022-05-23 14.00-15.00
 
 Location: KTH, 3721, Lindstedsvägen 25
 
 Speaker: Richard Tsai (UT Austin)
 
-Title, abstract: TBA
+Abstract:
+The low dimensional manifold hypothesis posits that the data found inmany applications, such as those involving natural images, lie (approximately) on low dimensional manifolds embedded in a high dimensional Euclidean space. In this setting, a typical neural network defines a function that takes a finite number of vectors in the embedding space as input. However, one often needs to consider evaluating the optimized network at points outside the training distribution. We analyze the cases where the training data are distributed in a linear subspace of Rd. We derive estimates on the variation ofthe learning function, defined by a neural network, in the direction transversalto the subspace. We study the potential regularization effects associated with the network’s depth and noise in the codimension of the data manifold.
 
 ## Week 22
 
