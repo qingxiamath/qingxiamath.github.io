@@ -186,20 +186,21 @@ Abstract: Since over a decade, graphical processing units (GPUs) power supercomp
 
 ## Week 18
 
+Title: Efficient Approaches for Time-Domain Wave Equations
+
 Time: Thu 2022-05-05 14.00-15.00
 
 Location: Zoom https://kth-se.zoom.us/j/63299293349
 
 Speaker: Jeffrey Banks (RPI)
 
-Title, abstract: TBA
+Abstract: For engineering or applied sciences, high-order accurate numerical methods are often desirable because they are potentially orders of magnitude more efficient than their low-order counterparts. However, realizing the potential payoff of high-order methods in complex domains, particularly for wave equations, has proven challenging. Here I highlight two aspects of our recent work on high-order accurate methods for the second-order formulation of the governing equations. Part I of the talk presents a numerical approach for dispersive Maxwell’s equations built around an efficient 3-level time stepping algorithm. Overlapping grids are used to address geometric complexity, and both second- and fourth-order accurate schemes are presented. Part II presents recent developments for Galerkin Differences (GD). Although GD is fundamentally a finite element approximation based on a Galerkin projection, the underlying GD space is nonstandard and is derived using profitable ideas from the finite difference literature. The resulting schemes possess remarkable properties including nodal superconvergence and the ability to use large CFL-one time steps.
 
 ## Week 19
 
 Moved to [week 17, Apr. 26](#talk-1)
 
 Speaker: Chen Gong (Dartmouth)
-
 
 ## Week 20
 
