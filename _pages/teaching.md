@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## KTH
+### Teaching Assistant
+<ul>
+<!-- 	<li>SF2520 Applied Numerical Methods -- Spring 2022</li> -->
+	<li>SF2520 Applied Numerical Methods -- Autumn 2022</li>
+</ul>
+
 ## University of Utah
 ### Instructor
 <ul>
