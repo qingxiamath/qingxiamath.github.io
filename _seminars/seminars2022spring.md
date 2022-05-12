@@ -204,13 +204,15 @@ Speaker: Chen Gong (Dartmouth)
 
 ## Week 20
 
+Title: Numerical Methods for Shallow Water Models
+
 Time: Thu 2022-05-19 14.00-15.00
 
 Location: Zoom https://kth-se.zoom.us/j/63299293349
 
 Speaker: Yekaterina Epshteyn (Utah)
 
-Title, abstract: TBA
+Abstract: In this talk, we will discuss design of structure-preserving central-upwind finite volume methods for shallow water models. Shallow water systems are widely used in many scientific and engineering applications related to modeling of water flows in rivers, lakes and coastal areas. Shallow water equations are examples of hyperbolic systems of balance laws and such mathematical models can present a significant challenge for the construction of accurate and efficient numerical algorithms. We will show that the developed structure-preserving numerical methods for shallow water equations deliver high-resolution, can handle complicated geometry, and satisfy necessary stability conditions. We will illustrate the performance of the designed algorithms on a number of challenging numerical tests. Current and future research will be discussed as well.
 
 ## Week 21
 
