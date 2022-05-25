@@ -228,11 +228,22 @@ Abstract: The low dimensional manifold hypothesis posits that the data found in 
 
 ## Week 22
 
+Title: Active thermal cloaking and mimicking
+
 Time: Thu 2022-06-02 14.00-15.00
 
-Speaker:  Maxence Cassier (CNRS)
+Location: Zoom https://kth-se.zoom.us/j/63299293349
 
-Title, abstract and location: TBA
+Speaker: Maxence Cassier (CNRS, Institut Fresnel)
+
+Abstract: In this talk, we present two active cloaking methods for the parabolic heat equation to hide objects or sources in a homogeneous isotropic medium. By active cloaking, we mean that it relies on designing a distribution of heat sources to make a source or an object invisible to an observer from the perspective of thermal measurements. The same techniques can be used for mimicking, in other words to make a source or an object look like a different one outside of the cloaked region. Our first method [1], based on Green identities, relies on a time-dependent potential formula that requires the knowledge of the temperature field and heat flux of the incident field (used to detect the object) on an active surface (the cloak). More precisely, using these data, it consists on designing distributions of monopole and dipole heat sources on the boundary of the region to be cloaked. This can be physically realised with thermal heat pumps such as Peltier devices. We show here “some stability” of this approach and analyse the numerical error in our simulations via the maximum principle of parabolic equations. However, one caveat of this approach is that the cloak has to surround the object. In our second method [2], we use a frequency-to-time approach, via a Fourier-Laplace transform in time, to address this drawback and allow “exterior cloaking” where the cloak does not surround the object. Furthermore, this second method based on Graf’s addition formulas on the Helmholtz equation with complex wavenumbers can be applied to a large class of linear partial differential equations that arise in physics. In this context, we provide quantitative bounds that evaluate the quality effect in the frequency domain and we analyse the cloaking error by using the maximum principle applied to Helmholtz equations whose complex-wave number lies in the conical domain {k ∈ C | | Im(k)| > | Re(k)|}.
+
+
+In collaboration with Trent DeGiovanni (University of Utah), Sébastien Guenneau (UMI Abraham De Moivre, CNRS, Imperial College of London) and Fernando Guevara Vasquez (University of Utah).
+
+References related to the talk:
+1. M. Cassier, T. DeGiovanni, S. Guenneau and F. Guevara Vasquez, Active Thermal Cloaking and Mimicking, Proc. R. Soc. A vol. 477, p. 20200941, 2021.
+2. M. Cassier, T. DeGiovanni, S. Guenneau and F. Guevara Vasquez, Active exterior cloaking for the 2D Helmholtz equation with complex wavenumbers and application to thermal cloaking, to appear in Philosophical Transactions of the Royal Society A, preprint available on Arxiv at https://arxiv.org/pdf/2203.02075.pdf.
 
 ## Week 23
 
