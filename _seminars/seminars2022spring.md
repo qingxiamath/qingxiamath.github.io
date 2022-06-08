@@ -251,7 +251,7 @@ Time: Thu 2022-06-09 14.00-15.00
 
 Speaker:  Stefano Ottolenghi (SU)
 
-Title, abstract and location: TBA
+Title, abstract and location: CANCELLED
 
 ## Week 24
 
