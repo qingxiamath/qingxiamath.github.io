@@ -255,10 +255,12 @@ Title, abstract and location: CANCELLED
 
 ## Week 24
 
-Time: Thu 2022-06-16 14.00-15.00
+Title: Microlocal analysis and deep learning for tomographic reconstruction
 
-Speaker:  Ozan Öktem (KTH)
+Time: Thu 2022-06-16 14.00 - 15.00
 
-Location:  KTH, 3721, Lindstedsvägen 25
+Location: KTH, 3721, Lindstedsvägen 25
 
-Title, abstract: TBA
+Speaker: Ozan Öktem (KTH)
+
+Abstract: The talk outlines recent progress in developing domain adapted deep neural networks for the task of (a) extracting the wavefront set of an image from its shearlet coefficients and (b) inpainting the invisible part of the wavefront set in limited angle tomography. A key component in both tasks is to represent them as optimal non-randomised decision rules in statistical decision theory. The talk will also outline how to combine these two networks with a deep neural network for reconstruction, whose architecture is obtained by unrolling a suitable iterative scheme. Specifying the visible parts of the wavefront set relies on characterising the microlocal canonical relation of the deep neural network for reconstruction, which here inverts the ray transform. This results in a deep learning based approach for limited angle tomographic reconstruction that is aware of the microlocal canonical relation for the ray transform and also on the characterisation of visible part of the wavefront set.
