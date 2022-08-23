@@ -69,9 +69,29 @@ Abstract:
 
 ## Week 40
 
+Title: 
+
+Time: 2022-10-06, 14.00-15.00
+
+Speaker: Marius Zeinhofer
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract:
+
 ## Week 41
 
 ## Week 42
+
+Title: 
+
+Time: 2022-10-20, 14.00-15.00
+
+Speaker: Bowei Wu (Umass Lowell)
+
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
+
+Abstract:
 
 ## Week 43
 
@@ -81,7 +101,7 @@ Oct 26-27, SwedComp, No Seminar
 
 Title: 
 
-Time: 2022-09-15, 14.00-15.00
+Time: 2022-11-03, 14.00-15.00
 
 Speaker: Qinghai Zhang (Zhejiang University)
 
