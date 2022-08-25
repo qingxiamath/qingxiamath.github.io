@@ -9,15 +9,15 @@ collection: seminars
 
 ## Week 35
 
-Title: TBA
+Title: Towards Robust and Interpretable Scientific Machine Learning: Theory, Algorithms, and Applications
 
 Time: 2022-09-01, 14.00-15.00
 
 Speaker: Yeonjong Shin (KAIST)
 
-Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
+Location: Zoom https://kth-se.zoom.us/j/63299293349
 
-Abstract: TBA
+Abstract: Machine learning (ML) has achieved unprecedented empirical success in diverse applications. It now has been applied to solve scientific problems, which has become an emerging field, Scientific Machine Learning (SciML). Many ML techniques, however, are very complex and sophisticated, commonly requiring many trial-and-error and tricks. These result in a lack of robustness and interpretability, which are critical factors for scientific applications. This talk centers around mathematical approaches for SciML, promoting robustness and interpretability. The first part is about how to embed physics into neural networks (NNs). I will present a general framework for designing NNs that obey the first and second laws of thermodynamics. The framework not only provides flexible ways of leveraging available physics information but also results in expressive NN architectures. The second part is about the training of NNs, one of the biggest challenges in ML. I will present an efficient training method for NNs - Active Neuron Least Squares (ANLS). ANLS is developed from the insight gained from the analysis of gradient descent training.
 
 ## Week 36
 
