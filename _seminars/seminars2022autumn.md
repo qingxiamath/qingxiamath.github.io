@@ -73,13 +73,23 @@ Title:
 
 Time: 2022-10-06, 14.00-15.00
 
-Speaker: Marius Zeinhofer
+Speaker: Marius Zeinhofer (Simla)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
 Abstract:
 
 ## Week 41
+
+Title: 
+
+Time: 2022-10-06, 14.00-15.00
+
+Speaker: Sandra May (Uppsala)
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract:
 
 ## Week 42
 
