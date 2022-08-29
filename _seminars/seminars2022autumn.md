@@ -75,7 +75,7 @@ Abstract:
 
 Title: 
 
-Time: 2022-10-06, 14.00-15.00
+Time: 2022-10-13, 14.00-15.00
 
 Speaker: Sandra May (Uppsala)
 
