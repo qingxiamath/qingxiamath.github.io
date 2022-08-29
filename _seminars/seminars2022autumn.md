@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40), [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 1](#week-44-talk-1), [Nov. 3](#week-44-talk-2)
+[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40), [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 1](#week-44-talk-1), [Nov. 3](#week-44-talk-2), [Nov. 10](#week-45), [Nov. 17](#week-46), [Nov. 24](#week-47), [Dec. 1](#week-48), [Dec. 8](#week-49), [Dec. 15](#week-50)
 
 ## Week 35
 
@@ -125,3 +125,27 @@ Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/6
 
 Abstract:
 
+
+## Week 45
+
+TBA
+
+## Week 46
+
+TBA
+
+## Week 47
+
+TBA
+
+## Week 48
+
+TBA
+
+## Week 49
+
+TBA
+
+## Week 50
+
+TBA
