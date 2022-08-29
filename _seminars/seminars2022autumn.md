@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40), [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 3](#week-44)
+[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40), [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 1](#week-44-talk-1), [Nov. 3](#week-44-talk-2)
 
 ## Week 35
 
@@ -21,15 +21,7 @@ Abstract: Machine learning (ML) has achieved unprecedented empirical success in 
 
 ## Week 36
 
-Title: 
-
-Time:
-
-Speaker: 
-
-Location:
-
-Abstract:
+TBA
 
 ## Week 37
 
@@ -109,6 +101,20 @@ Oct 26-27, SwedComp, No Seminar
 
 ## Week 44
 
+### Week 44 Talk 1
+
+Title: 
+
+Time: 2022-11-03, 14.00-15.00
+
+Speaker: Robert Krasny
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract:
+
+
+### Week 44 Talk 2
 Title: 
 
 Time: 2022-11-03, 14.00-15.00
