@@ -105,7 +105,7 @@ Oct 26-27, SwedComp, No Seminar
 
 Title: 
 
-Time: 2022-11-03, 14.00-15.00
+Time: 2022-11-01, 14.00-15.00
 
 Speaker: Robert Krasny
 
