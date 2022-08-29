@@ -128,7 +128,15 @@ Abstract:
 
 ## Week 45
 
-TBA
+Title: 
+
+Time: 2022-11-10, 14.00-15.00
+
+Speaker: Ruchi Guo (UC Irvine)
+
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
+
+Abstract:
 
 ## Week 46
 
