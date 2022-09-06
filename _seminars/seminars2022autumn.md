@@ -37,15 +37,7 @@ Abstract: TBA
 
 ## Week 38
 
-Title: TBA
-
-Time: 2022-09-22, 14.00-15.00
-
-Speaker: Joar Bagge (KTH)
-
-Location: KTH, 3721, Lindstedsvägen 25
-
-Abstract: TBA
+TBA
 
 ## Week 39
 
@@ -152,7 +144,15 @@ TBA
 
 ## Week 49
 
-TBA
+Title: TBA
+
+Time: 2022-12-08, 14.00-15.00
+
+Speaker: Joar Bagge (KTH)
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract: TBA
 
 ## Week 50
 
