@@ -25,15 +25,15 @@ TBA
 
 ## Week 37
 
-Title: TBA
+Title: Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems
 
 Time: 2022-09-15, 14.00-15.00
 
 Speaker: Jiahua Jiang (Birmingham)
 
 Location: KTH, 3721, Lindstedsvägen 25
-
-Abstract: TBA
+ 
+Abstract: We develop hybrid projection methods for computing solutions to large-scale inverse problems, where the solution represents a sum of different stochastic components. Such scenarios arise in many imaging applications (e.g., anomaly detection in atmospheric emissions tomography) where the reconstructed solution can be represented as a combination of two or more components and each component contains different smoothness or stochastic properties. In a deterministic inversion or inverse modeling framework, these assumptions correspond to different regularization terms for each solution in the sum. Although various prior assumptions can be included in our framework, we focus on the scenario where the solution is a sum of a sparse solution and a smooth solution. For computing solution estimates, we develop hybrid projection methods for solution decomposition that are based on a combined flexible and generalized Golub-Kahan processes. This approach integrates techniques from the generalized Golub-Kahan bidiagonalization and the flexible Krylov methods. The benefits of the proposed methods are that the decomposition of the solution can be done iteratively, and the regularization terms and regularization parameters are adaptively chosen at each iteration. Numerical results from photoacoustic tomography and atmospheric inverse modeling demonstrate the potential for these methods to be used for anomaly detection.
 
 ## Week 38
 
