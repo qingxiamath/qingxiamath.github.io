@@ -41,7 +41,7 @@ TBA
 
 ## Week 39
 
-Title: 
+Title: Reduced order models for inverse scattering problems
 
 Time: 2022-09-29, 14.00-15.00
 
@@ -49,7 +49,13 @@ Speaker: Jörn Zimmerling (Uppsala)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: In inverse scattering one tries to determine the coefficients of a PDE from measurements of the field that is driven by the PDE. Broadly, methods in inverse scattering fall into two categories: (1) Qualitative methods that try to reconstruct the support of scatterers and (2) Quantitative methods that try to reconstruct the PDE coefficients. Here we will focus on wave equations and reconstructing the wave speed from remote measurements.
+
+Quantitative methods often formulate the problem as a PDE constrained optimization. That is, the PDE is used to map coefficients to simulated data and the mismatch between this data with the measurements is minimized in some norm to retrieve the unknown coefficients.
+ 
+In this seminar we propose two alternative approaches involving reduced order modeling. A reduced-order model is a small algebraic system that can be directly obtained from the measured data and captures key properties of the underlying wave dynamics. In the first approach, the inverse scattering problem is reformulated in terms of a minimization of the reduced-order model mismatch rather than data mismatch. In a second approach we use the reduced order model to estimate the wave inside the unknown medium to aid inversion.
+
+The measured data in inverse scattering experiments depends non-linearly on the PDE coefficient, which leads PDE constraint optimization to converge to local minima without a sufficiently good initial guess. We show that the reformulation using reduced-order models leads to a better-behaved objective function that is able to reconstruct the unknown PDE coefficients even for a poor initial guess.
 
 ## Week 40
 
