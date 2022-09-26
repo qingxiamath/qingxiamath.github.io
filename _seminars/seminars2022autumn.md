@@ -59,7 +59,7 @@ The measured data in inverse scattering experiments depends non-linearly on the 
 
 ## Week 40
 
-Title: 
+Title: Analyzing Neural Network-Based Schemes for High-Dimensional Elliptic PDEs
 
 Time: 2022-10-06, 14.00-15.00
 
@@ -67,7 +67,7 @@ Speaker: Marius Zeinhofer (Simla)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: Motivated by recent empirical success, we examine how neural network-based ansatz classes can mitigate the curse of dimensionality for high-dimensional, elliptic partial differential equations with variational structure. The high-dimensionality of the PDEs can either be induced through a high-dimensional physical domain or a high-dimensional parameter space. The latter include parametric right-hand sides, parametric domains, and material constants. Our main result shows that any scheme that computes neural network based $W^{1,p}$-approximations, leverages the extraordinary approximation capabilities of neural networks and, thus, is able to mitigate the curse of dimensionality if the ground truth solution is smooth or possesses Barron regularity. Popular examples of $W^{1,p}$-convergent schemes include, e.g., the Deep Ritz Method and physics-informed neural networks. We present numerical experiments supporting our theoretical findings.
 
 ## Week 41
 
