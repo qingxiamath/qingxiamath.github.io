@@ -142,7 +142,7 @@ Title: TBA
 
 Time: 2022-11-17, 14.00-15.00
 
-Speaker: Pip Matharu
+Speaker: Pip Matharu (KTH)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
@@ -150,7 +150,15 @@ Abstract: TBA
 
 ## Week 47
 
-TBA
+Title: TBA
+
+Time: 2022-11-24, 14.00-15.00
+
+Speaker: Leon Bungert (Hausdorff Center for Mathematics)
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract: TBA
 
 ## Week 48
 
