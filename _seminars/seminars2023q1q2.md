@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Jan 19](#week-3), [Jan 26](#week-4), [May 18](#week-20), [May 25](#week-21)
+[Jan 19](#week-3), [Jan 26](#week-4), [Feb 2](#week-5), [Feb 9](#week-6),[Feb 16](#week-7), [Feb 23](#week-8) [Mar 2](#week-9), [May 18](#week-20), [May 25](#week-21)
 
 ## Week 3
 
@@ -34,6 +34,28 @@ Abstract: TBA
 ## Week 5
 
 ## Week 6
+
+## Week 7
+
+## Week 8
+
+## Week 9
+
+SIAM CSE, no seminar
+
+## Week 10
+
+## Week 11
+
+## Week 12
+
+## Week 13
+
+## Week 14
+
+Holiday, no seminar
+
+## Week 15
 
 ## Week 20
 
