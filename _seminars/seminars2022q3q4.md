@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40), [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 1](#week-44-talk-1), [Nov. 3](#week-44-talk-2), [Nov. 10](#week-45), [Nov. 17](#week-46), [Nov. 24](#week-47), [Dec. 1](#week-48), [Dec. 8](#week-49), [Dec. 15](#week-50)
+[Sept. 1](#week-35), [Sept. 8](#week-36), [Sept. 15](#week-37), [Sept. 22](#week-38), [Sept. 29](#week-39), [Oct. 6](#week-40), [Oct. 13](#week-41), [Oct. 20](#week-42), [Oct. 27](#week-43), [Nov. 3](#week-44), [Nov. 10](#week-45), [Nov. 17](#week-46), [Nov. 24](#week-47), [Dec. 1](#week-48), [Dec. 8](#week-49), [Dec. 15](#week-50)
 
 ## Week 35
 
@@ -99,30 +99,15 @@ Oct 26-27, SwedComp, No Seminar
 
 ## Week 44
 
-### Week 44 Talk 1
-
 Title: 
 
-Time: 2022-11-01, 14.00-15.00
+Time: 2022-11-03, 14.00-15.00
 
 Speaker: Robert Krasny
 
 Location: KTH, 3721, Lindstedsvägen 25
 
 Abstract:
-
-
-### Week 44 Talk 2
-Title: 
-
-Time: 2022-11-03, 14.00-15.00
-
-Speaker: Qinghai Zhang (Zhejiang University)
-
-Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
-
-Abstract:
-
 
 ## Week 45
 
@@ -138,15 +123,15 @@ Abstract:
 
 ## Week 46
 
-Title: TBA
+Title: 
 
 Time: 2022-11-17, 14.00-15.00
 
-Speaker: Pip Matharu (KTH)
+Speaker: Qinghai Zhang (Zhejiang University)
 
-Location: KTH, 3721, Lindstedsvägen 25
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
-Abstract: TBA
+Abstract:
 
 ## Week 47
 
@@ -162,7 +147,15 @@ Abstract: TBA
 
 ## Week 48
 
-TBA
+Title: TBA
+
+Time: 2022-12-01, 14.00-15.00
+
+Speaker: Pip Matharu (KTH)
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract: TBA
 
 ## Week 49
 
