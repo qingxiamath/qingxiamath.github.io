@@ -1,5 +1,5 @@
 ---
-title: "Joint NA Seminars 2023 (Spring)"
+title: "4. NA Seminars 2023 (Spring)"
 excerpt: ""
 collection: seminars
 ---
