@@ -1,5 +1,5 @@
 ---
-title: "1. Joint NA Seminars 2021 (Autumn)"
+title: "Joint NA Seminars 2021 (Autumn)"
 excerpt: ""
 collection: seminars
 ---
