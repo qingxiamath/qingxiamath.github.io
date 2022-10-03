@@ -71,7 +71,7 @@ Abstract: Motivated by recent empirical success, we examine how neural network-b
 
 ## Week 41
 
-Title: 
+Title: DoD-stabilization for solving hyperbolic conservation laws on cut cell meshes
 
 Time: 2022-10-13, 14.00-15.00
 
@@ -79,7 +79,13 @@ Speaker: Sandra May (Uppsala)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: Cut cells methods have been developed in recent years for computing flow around bodies with complicated geometries.  For mesh generation, the flow body is cut out of a regular Cartesian grid resulting in so called cut cells. Cut cells can have irregular shape and may be very small. For the solution of time-dependent hyperbolic conservation laws, this causes the small cell problem: explicit time stepping schemes are not stable on the arbitrarily small cut cells.
+
+In this talk we present the Domain of Dependence (DoD) stabilization for overcoming this issue for DG schemes. The stabilization is based on adding suitable penalty terms to the spatial discretization. The terms are designed to restore proper domains of dependence. In time, one can use a standard explicit time stepping scheme. The resulting scheme possesses several desirable theoretical properties, such as being monotone for scalar conservation laws for the first-order scheme.
+
+In this talk we will discuss the idea behind the DoD stabilization and give an overview of the development so far. This includes among others the solution of the linear advection equation in 1d and 2d and of the compressible Euler equations in 1d, all using higher order polynomial degrees. The talk is complemented by numerical results.
+
+This is joint work with (in alphabetic order) Gunnar Birke, Christian Engwer, Andreas Nuessing (all Univ. Muenster, Germany) and Florian Streitbuerger (TU Dortmund, Germany). 
 
 ## Week 42
 
