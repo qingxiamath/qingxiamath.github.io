@@ -89,15 +89,8 @@ This is joint work with (in alphabetic order) Gunnar Birke, Christian Engwer, An
 
 ## Week 42
 
-Title: 
+Cancelled due to PhD student study plan evaluation.
 
-Time: 2022-10-20, 14.00-15.00
-
-Speaker: Bowei Wu (Umass Lowell)
-
-Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
-
-Abstract:
 
 ## Week 43
 
