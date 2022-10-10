@@ -17,17 +17,17 @@ Speaker:
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-## Week 4
+Abstract:
 
-Abstract: TBA
+## Week 4
 
 Title: TBA
 
 Time: 2023-01-26, 14.00-15.00
 
-Speaker: 
+Speaker: Bowei Wu
 
-Location: KTH, 3721, Lindstedsvägen 25
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
 Abstract: TBA
 
@@ -44,6 +44,18 @@ Abstract: TBA
 SIAM CSE, no seminar
 
 ## Week 10
+
+Abstract: TBA
+
+Title: TBA
+
+Time: 2023-03-09, 14.00-15.00
+
+Speaker:  Elena Bachini (Technische Universität Dresden, Institute of Scientific Computing)
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract: TBA
 
 ## Week 11
 
