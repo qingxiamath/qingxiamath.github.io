@@ -83,8 +83,6 @@ Holiday, no seminar
 
 ## Week 21
 
-Abstract: TBA
-
 Title: TBA
 
 Time: 2023-05-25, 14.00-15.00
