@@ -98,7 +98,7 @@ Oct 26-27, SwedComp, No Seminar
 
 ## Week 44
 
-Title: 
+Title: Fast Summation Methods Based on Barycentric Lagrange Interpolation
 
 Time: 2022-11-03, 14.00-15.00
 
@@ -106,7 +106,7 @@ Speaker: Robert Krasny
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: Many problems in scientific computing involve long-range particle interactions, for example the Coulomb interaction of charged particles. To address the cost of computing these interactions in large-scale computations, we present two fast summation methods based on barycentric Lagrange interpolation, a treecode (BLTC) and a fast multipole method where the interaction lists are formed by dual tree traversal (BLDTT). The methods are kernel-independent, and the form of the approximation enables an efficient GPU implementation. The performance of the BLTC and BLDTT is demonstrated, and an application to the electrostatics of solvated biomolecules is presented.
 
 ## Week 45
 
