@@ -134,15 +134,17 @@ Abstract:
 
 ## Week 47
 
-Title: TBA
+Title: Uniform convergence rates for Lipschitz learning on graphs
 
 Time: 2022-11-24, 14.00-15.00
 
 Speaker: Leon Bungert (Hausdorff Center for Mathematics)
 
 Location: KTH, 3721, Lindstedsvägen 25
-
-Abstract: TBA
+ 
+Abstract: The last few years have seen a deluge of discrete-to-continuum convergence results for various problems in graph-based learning and numerical analysis. This theory makes connections between discrete numerical models on one hand and continuum partial differential equations or variational problems on the other hand. Current works use either a Gamma-convergence framework or PDE techniques, which give uniform convergence rates, albeit with more restrictive conditions on the graph bandwidth that often rule out the sparse graphs used in practice. In this talk I will show how to obtain uniform convergence rates for solutions of the graph infinity Laplacian equation which depend only on the convergence rates of the graph distance function. The proof utilizes the comparison-with-cones characterization and involves a homogenized non-local operator with a much larger bandwidth. This allows us to prove convergence rates for all graph bandwidths strictly above the connectivity threshold. Furthermore, using percolation theory we can even obtain improved convergence rates for graph bandwidths on the connectivity threshold.
+ 
+This is joint work with Jeff Calder and Tim Roith.
 
 ## Week 48
 
