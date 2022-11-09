@@ -110,15 +110,13 @@ Abstract: Many problems in scientific computing involve long-range particle inte
 
 ## Week 45
 
-Title: 
-
 Time: 2022-11-10, 14.00-15.00
 
-Speaker: Ruchi Guo (UC Irvine)
+Speaker: Anna Broms and Emanuel Ström (KTH)
 
-Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
+Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: PhD study plan evaluations.
 
 ## Week 46
 
