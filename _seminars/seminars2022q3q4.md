@@ -120,7 +120,7 @@ Abstract: PhD study plan evaluations.
 
 ## Week 46
 
-Title: 
+Title: Fluid Modeling in Three Dimensions: Topological Classification, Boolean Algebra, Geometric Representation, and Their Applications to Interface Tracking and Mean Curvature Flows.
 
 Time: 2022-11-17, 14.00-15.00
 
@@ -128,7 +128,7 @@ Speaker: Qinghai Zhang (Zhejiang University)
 
 Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
-Abstract:
+Abstract: Solid modeling has been an established field while fluid modeling is still an undefined concept. However, there is a need of fluid modeling in numerically solving PDEs on complex moving domains: sometimes we have to have a solid ground for the topology and geometry of complex domains so that subsequent analysis can be performed. We answer this need by proposing for three-dimensional continua a modeling space, a complete topological classification, a Boolean algebra, and a geometric representation of their boundary. We united these techniques in a framework for numerically solving geometric PDEs such as the mean curvature flows with fourth- and higher-order convergence.
 
 ## Week 47
 
