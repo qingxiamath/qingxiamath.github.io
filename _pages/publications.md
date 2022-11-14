@@ -29,4 +29,10 @@ author_profile: true
 
 ## Submitted
 
+<ul>
+	<li>
+		<b>Q. Xia</b>, Local-basis Difference Potentials Method for elliptic PDEs in complex geometry [<a href="[https://arxiv.org/abs/2108.09519](https://arxiv.org/abs/2211.06133)" target="_blank">arXiv:2211.06133</a>]
+	</li>
+</ul>
+
 ## In preparation
