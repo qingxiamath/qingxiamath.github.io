@@ -146,7 +146,7 @@ This is joint work with Jeff Calder and Tim Roith.
 
 ## Week 48
 
-Title: TBA
+Title: PDE Optimization for Problems in Theoretical and Computational Turbulence
 
 Time: 2022-12-01, 14.00-15.00
 
@@ -154,7 +154,7 @@ Speaker: Pip Matharu (KTH)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract: TBA
+Abstract: Turbulent flows occur in various fields and are a central, yet an extremely complex, topic in fluid dynamics. Understanding the behaviour of fluids is vital for multiple research areas including, but not limited to: biological models, weather prediction, and engineering design models for automobiles and aircraft. In this talk, we will introduce optimization techniques for systems described by partial differential equations, and frame a number of fundamental problems that arise in 2D turbulent flows using the Navier-Stokes system, such that they can be solved using computational methods. We utilize adjoint calculus to build the computational framework to be implemented in an iterative gradient flow procedure, using the "optimize-then-discretize" approach. The use of optimization methods together with computational mathematics provides an illuminating perspective on fluid mechanics, in particular the problems of the "zeroth law of turbulence" and the turbulence closure problem.
 
 ## Week 49
 
