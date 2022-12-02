@@ -158,7 +158,7 @@ Abstract: Turbulent flows occur in various fields and are a central, yet an extr
 
 ## Week 49
 
-Title: TBA
+Title: Special quadrature methods via line extrapolation, with applications to Stokesian particle flows
 
 Time: 2022-12-08, 14.00-15.00
 
@@ -166,8 +166,8 @@ Speaker: Joar Bagge (KTH)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract: TBA
+Abstract: Microscale flows with small rigid particles immersed in a viscous fluid occur both in nature and in industry. The fluid flow around such particles is the solution to a linear PDE known as the Stokes equation. The solution to the Stokes equation can be reformulated in terms of boundary integrals over the particle surfaces, thus reducing the computational domain from three to two dimensions. However, the integrands involved in this integral formulation have singularities, and special quadrature methods are needed to accurately compute the integrals. In this talk, we will give an overview of different special quadrature methods, and in particular focus on one such method, which is based on extrapolation (or interpolation) along a line. We will discuss different methods of extrapolation, for example using polynomials or rational functions, some numerical results and some remaining challenges.
 
 ## Week 50
 
-TBA
+No seminar
