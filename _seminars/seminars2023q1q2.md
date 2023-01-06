@@ -59,7 +59,27 @@ Boundary Value Problems (BVPs) are ubiquitous in engineering and scientific appl
 
 ## Week 7
 
+Title: 
+
+Time: 2023-02-16, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract: 
+
 ## Week 8
+
+Title: 
+
+Time: 2023-02-23, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract: 
 
 ## Week 9
 
@@ -81,9 +101,39 @@ Abstract: TBA
 
 ## Week 11
 
+Title: 
+
+Time: 2023-03-16, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract: 
+
 ## Week 12
 
+Title: 
+
+Time: 2023-03-23, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract: 
+
 ## Week 13
+
+Title: 
+
+Time: 2023-03-30, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
 
 ## Week 14
 
@@ -91,13 +141,63 @@ Holiday, no seminar
 
 ## Week 15
 
+Title: 
+
+Time: 2023-04-13, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
+
 ## Week 16
+
+Title: 
+
+Time: 2023-04-20, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
 
 ## Week 17
 
+Title: 
+
+Time: 2023-04-27, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
+
 ## Week 18
 
+Title: 
+
+Time: 2023-05-04, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
+
 ## Week 19
+
+Title: 
+
+Time: 2023-05-11, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
 
 ## Week 20
 
@@ -117,7 +217,27 @@ Abstract: TBA
 
 ## Week 22
 
+Title: 
+
+Time: 2023-06-01, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
+
 ## Week 23
+
+Title: 
+
+Time: 2023-06-08, 14.00-15.00
+
+Speaker: 
+
+Location: 
+
+Abstract:
 
 ## Week 24
 
