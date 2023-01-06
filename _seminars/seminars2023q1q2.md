@@ -53,9 +53,7 @@ Speaker: Bowei Wu
 
 Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
-Abstract: 
-
-Boundary Value Problems (BVPs) are ubiquitous in engineering and scientific applications. One of the most robust and accurate methods for solving BVPs is the Boundary Integral Equation Method, which has the great advantage of dimensionality reduction: all of the unknowns reside on the boundary surface instead of in the volume. A key challenge when solving integral equations is that special quadrature methods are required to discretize the underlying singular and near-singular integral operators. Accurate discretization of these operators is especially important in, for example, problems that involve close structure-structure or fluid-structure interactions. In this talk, we present some recent advancements on singular and near-singular numerical integration based on one of the simplest quadrature methods -- the Trapezoidal rule.
+Abstract: Boundary Value Problems (BVPs) are ubiquitous in engineering and scientific applications. One of the most robust and accurate methods for solving BVPs is the Boundary Integral Equation Method, which has the great advantage of dimensionality reduction: all of the unknowns reside on the boundary surface instead of in the volume. A key challenge when solving integral equations is that special quadrature methods are required to discretize the underlying singular and near-singular integral operators. Accurate discretization of these operators is especially important in, for example, problems that involve close structure-structure or fluid-structure interactions. In this talk, we present some recent advancements on singular and near-singular numerical integration based on one of the simplest quadrature methods -- the Trapezoidal rule.
 
 ## Week 7
 
