@@ -127,9 +127,9 @@ Title:
 
 Time: 2023-03-30, 14.00-15.00
 
-Speaker: 
+Speaker: Viktor Linders (Lund)
 
-Location: 
+Location: KTH, 3721, Lindstedsvägen 25
 
 Abstract:
 
