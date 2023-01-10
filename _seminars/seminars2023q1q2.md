@@ -155,9 +155,9 @@ Title:
 
 Time: 2023-04-20, 14.00-15.00
 
-Speaker: 
+Speaker: Xiaozhou Li
 
-Location: 
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
 Abstract:
 
