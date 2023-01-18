@@ -49,7 +49,7 @@ Title: A simple and accurate numerical method for singular and near-singular int
 
 Time: 2023-02-09, 14.00-15.00
 
-Speaker: Bowei Wu
+Speaker: Bowei Wu (UMass Lowell)
 
 Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
@@ -61,7 +61,7 @@ Title:
 
 Time: 2023-02-16, 14.00-15.00
 
-Speaker: 
+Speaker: Gustav Eriksson (Uppsala)
 
 Location: 
 
