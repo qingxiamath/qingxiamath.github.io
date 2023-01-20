@@ -57,15 +57,15 @@ Abstract: Boundary Value Problems (BVPs) are ubiquitous in engineering and scien
 
 ## Week 7
 
-Title: 
+Title: The projection method for high-order finite difference with summation-by-parts properties
 
 Time: 2023-02-16, 14.00-15.00
 
 Speaker: Gustav Eriksson (Uppsala)
 
-Location: 
+Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract: 
+Abstract: High-order finite difference methods with summation-by-parts (SBP) properties for time-dependent wave propagation problems are considered. In recent times, the most common method for imposing boundary and interface conditions with SBP finite differences has been the simultaneous-approximation-term (SBP-SAT) method. The SAT method imposes the conditions weakly by adding a penalty term to the system. However, for some problems, the stability proofs with SBP-SAT are difficult and the spectral radii of the schemes can grow large. Here, we consider an alternative method that imposes the conditions strongly using orthogonal projections (SBP-P). For most problems, the stability proof with SBP-P is significantly simpler than with SBP-SAT. It follows directly if the PDE is well-posed. In this talk, I will introduce SBP finite differences and show how the projection method can be used to prove stability for a wide array of PDEs. Numerical results and comparisons between SBP-P and SBP-SAT will be presented for the incompressible Navier-Stokes equations with wall boundary conditions, the piecewise homogeneous dynamic Kirchoff-Love plate equation, and the second-order wave equation with non-conforming interfaces.
 
 ## Week 8
 
