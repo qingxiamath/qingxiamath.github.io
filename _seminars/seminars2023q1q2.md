@@ -73,9 +73,9 @@ Title:
 
 Time: 2023-02-23, 14.00-15.00
 
-Speaker: 
+Speaker: Xinyu Zhao (McMaster U)
 
-Location: 
+Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
 Abstract: 
 
