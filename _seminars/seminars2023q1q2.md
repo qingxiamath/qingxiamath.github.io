@@ -219,9 +219,9 @@ Title:
 
 Time: 2023-06-01, 14.00-15.00
 
-Speaker: 
+Speaker: Ludvig af Klinteberg (MDU)
 
-Location: 
+Location: KTH, 3721, Lindstedsvägen 25
 
 Abstract:
 
