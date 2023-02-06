@@ -5,43 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Jan 19](#week-3), [Jan 26](#week-4), [Feb 2](#week-5), [Feb 9](#week-6), [Feb 16](#week-7), [Feb 23](#week-8), [Mar 2](#week-9), [Mar 9](#week-10), [Mar 16](#week-11), [Mar 23](#week-12), [Mar 30](#week-13), [Apr 6](#week-14), [Apr 13](#week-15), [Apr 20](#week-16), [Apr 27](#week-17), [May 4](#week-18), [May 11](#week-19), [May 18](#week-20), [May 25](#week-21), [Jun 1](#week-22), [Jun 8](#week-23), [Jun 15](#week-24)
-
-## Week 3
-
-Title: TBA
-
-Time: 2023-01-19, 14.00-15.00
-
-Speaker: 
-
-Location: KTH, 3721, Lindstedsvägen 25
-
-Abstract:
-
-## Week 4
-
-Title: 
-
-Time: 2023-01-26, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract: 
-
-## Week 5
-
-Title: 
-
-Time: 2023-02-02, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract: 
+[Feb 9](#week-6), [Feb 16](#week-7), [Feb 23](#week-8), [Mar 2](#week-9), [Mar 9](#week-10), [Mar 16](#week-11), [Mar 23](#week-12), [Mar 30](#week-13), [Apr 6](#week-14), [Apr 13](#week-15), [Apr 20](#week-16), [Apr 27](#week-17), [May 4](#week-18), [May 11](#week-19), [May 18](#week-20), [May 25](#week-21), [Jun 1](#week-22), [Jun 8](#week-23), [Jun 15](#week-24)
 
 ## Week 6
 
@@ -63,13 +27,13 @@ Time: 2023-02-16, 14.00-15.00
 
 Speaker: Gustav Eriksson (Uppsala)
 
-Location: KTH, 3721, Lindstedsvägen 25
+Location: KTH, 3418, Lindstedsvägen 25
 
 Abstract: High-order finite difference methods with summation-by-parts (SBP) properties for time-dependent wave propagation problems are considered. In recent times, the most common method for imposing boundary and interface conditions with SBP finite differences has been the simultaneous-approximation-term (SBP-SAT) method. The SAT method imposes the conditions weakly by adding a penalty term to the system. However, for some problems, the stability proofs with SBP-SAT are difficult and the spectral radii of the schemes can grow large. Here, we consider an alternative method that imposes the conditions strongly using orthogonal projections (SBP-P). For most problems, the stability proof with SBP-P is significantly simpler than with SBP-SAT. It follows directly if the PDE is well-posed. In this talk, I will introduce SBP finite differences and show how the projection method can be used to prove stability for a wide array of PDEs. Numerical results and comparisons between SBP-P and SBP-SAT will be presented for the incompressible Navier-Stokes equations with wall boundary conditions, the piecewise homogeneous dynamic Kirchoff-Love plate equation, and the second-order wave equation with non-conforming interfaces.
 
 ## Week 8
 
-Title: 
+Title: Systematic search for singularities in 3D Euler flows
 
 Time: 2023-02-23, 14.00-15.00
 
@@ -77,7 +41,7 @@ Speaker: Xinyu Zhao (McMaster U)
 
 Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
-Abstract: 
+Abstract: The local well-posedness of smooth solutions of 3D incompressible Euler equations has been established when the initial data is in the Sobolev space $H^s$ for $s > 5/2$.  However, it is still an open question whether these solutions develop finite-time singularities. Today, we will present a numerical study of this question where we systematically search for initial data that may lead to potential singularity through PDE-constrained optimization. The optimization problem is solved numerically using a state-of-the-art Riemannian conjugate gradient method where the Sobolev gradients are obtained through an adjoint method. The behavior of the obtained extreme flow, which features two colliding distorted vortex rings, suggests a finite-time singularity formation. This is based on a joint work with Bartosz Protas.
 
 ## Week 9
 
