@@ -67,9 +67,9 @@ Title:
 
 Time: 2023-03-16, 14.00-15.00
 
-Speaker: 
+Speaker: Erik Nilsson (KTH)
 
-Location: 
+Location: KTH, 3721, Lindstedsvägen 25
 
 Abstract: 
 
