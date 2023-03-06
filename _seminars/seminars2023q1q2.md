@@ -49,17 +49,15 @@ SIAM CSE, no seminar
 
 ## Week 10
 
-Abstract: TBA
-
-Title: TBA
+Title: An intrinsic finite element method for PDEs on surfaces
 
 Time: 2023-03-09, 14.00-15.00
 
 Speaker:  Elena Bachini (Technische Universität Dresden, Institute of Scientific Computing)
 
-Location: KTH, 3721, Lindstedsvägen 25
+Location: KTH, 3418, Lindstedsvägen 25
 
-Abstract: TBA
+Abstract: Surface PDEs have attracted the interest of many researcher over the last twenty years, due to their applications in various fields from fluid flow to biomedical engineering and electromagnetism. Many proposed numerical approaches rely on an embedding of the surface in a higher dimensional space. We present here an alternative finite element approach based on a geometrically intrinsic formulation, that we call Intrinsic Surface Finite Element Method (ISFEM). By careful definition of the geometry and the differential operators, we are able to arrive at an approximation that is fully intrinsic to the surface. We consider first a scalar advection-diffusion-reaction equation defined on a surface. In this case, the numerical analysis of the scheme is also available, and we show numerical experiments that support theoretical results. Then, we extend the differential operators for the case of vector-valued PDEs. In this case the presented formulation allows the direct discretization of objects naturally defined in the tangent space, without the need of any additional projection. Finally, we extend ISFEM to consider moving surfaces via an intrinsic re-definition of the PDE that takes into account a time-dependent metric tensor. To evaluate our approach, we consider several steady and transient problems involving both diffusion and advection-dominated regimes and compare its performance to established finite element techniques.
 
 ## Week 11
 
