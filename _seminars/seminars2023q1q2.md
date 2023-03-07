@@ -141,7 +141,7 @@ Title:
 
 Time: 2023-05-04, 14.00-15.00
 
-Speaker: 
+Speaker: Johan Hoffman (KTH)
 
 Location: 
 
