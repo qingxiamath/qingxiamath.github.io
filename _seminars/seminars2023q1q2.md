@@ -67,7 +67,7 @@ Time: 2023-03-16, 14.00-15.00
 
 Speaker: Erik Nilsson (KTH)
 
-Location: KTH, 3721, Lindstedsvägen 25
+Location: KTH, 3418, Lindstedsvägen 25
 
 Abstract: Many PDEs modelling physical phenomena include a divergence condition coming from a physical conservation law. In a Finite Element Method (FEM) it is possible to satisfy this condition up to machine precision, but not for any choice of finite element space. This talk will address the divergence condition in the context of a variant of the FEM called Cut Finite Element Methods (CutFEM), which can be applied with computational benefit to problems in which the geometry undergoes deformations during the course of the simulation. In particular we will see a new way to satisfy the divergence condition up to machine precision, using CutFEM.
 
