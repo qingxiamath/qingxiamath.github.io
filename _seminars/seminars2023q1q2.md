@@ -73,27 +73,21 @@ Abstract: Many PDEs modelling physical phenomena include a divergence condition 
 
 ## Week 12
 
-Title: 
-
-Time: 2023-03-23, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract: 
+No seminar. 
 
 ## Week 13
 
-Title: 
+Title: Iterative methods and structure preservation
 
 Time: 2023-03-30, 14.00-15.00
 
 Speaker: Viktor Linders (Lund)
 
-Location: KTH, 3721, Lindstedsvägen 25
+Location: KTH, 3424, Lindstedsvägen 25
 
-Abstract:
+Abstract: Consistency, conservation, stability and accuracy are essential ingredients in the design of successful discretizations of partial differential equations. Considerable effort has been put into ensuring these properties for spatial and temporal discretizations. In the context of implicit schemes, iterative methods are used to approximate solutions to the systems of (nonlinear) equations that arise in each time step. However, iterative methods have not been designed with these concepts in mind.
+
+In this talk we will discuss questions surrounding the preservation of structures by iterative methods and the potential impact that this could have on the quality of numerical solutions. We will see that not all iterative methods are conservative, and among those that are, many are inconsistent. In addition, iterative methods violate entropy estimates that the discretization satisfies, and can convert a dissipative scheme into an anti-dissipative one. This has a profound impact on the errors in numerical simulations. We will examine several solutions to these issues, and see that enforcing the preservation of the underlying structure can result in better numerical solutions, even when considerably larger tolerances are used.
 
 ## Week 14
 
