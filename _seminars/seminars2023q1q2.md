@@ -95,19 +95,11 @@ Holiday, no seminar
 
 ## Week 15
 
-Title: 
-
-Time: 2023-04-13, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract:
+No seminar
 
 ## Week 16
 
-Title: 
+Title: Improving Accuracy with a Convolution Filter: Introduction, Applications, and Recent Developments
 
 Time: 2023-04-20, 14.00-15.00
 
@@ -115,7 +107,11 @@ Speaker: Xiaozhou Li
 
 Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
 
-Abstract:
+Abstract: The Galerkin method is well-known for its ability to achieve superconvergence. Specifically, the standard error of the DG method boasts a higher order of 2k+1 in the negative norm, or in a dual Sobolev space. However, in order to further enhance the accuracy of a Galerkin solution, previous studies have explored various reconstruction techniques including filtering/post-processing, etc.
+
+By implementing a specially designed convolution filter, it is possible to replicate superconvergence in the solution space, particularly in the L2 norm. This not only improves accuracy, but also enhances the smoothness of the original solution between elements.
+
+In this talk, we will focus on introducing the filtering technique, discussing why it is useful and demonstrating common usage. We will also explore recent developments and challenges, including its use in conjunction with the ALE-DG method, efficiency concerns, and other difficulties.
 
 ## Week 17
 
