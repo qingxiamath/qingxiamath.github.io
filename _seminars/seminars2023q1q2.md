@@ -115,39 +115,23 @@ In this talk, we will focus on introducing the filtering technique, discussing w
 
 ## Week 17
 
-Title: 
-
-Time: 2023-04-27, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract:
+No seminar
 
 ## Week 18
 
-Title: 
+Title: Turbulent flow and heart valve disease
 
 Time: 2023-05-04, 14.00-15.00
 
 Speaker: Johan Hoffman (KTH)
 
-Location: 
+Location: KTH, 3424, Lindstedsvägen 25
 
-Abstract:
+Abstract: We present our work on computational modeling and analysis of turbulent flow in the context of heart valve disease. Abnormal blood flow in the heart is associated with an increased risk for thrombosis, and may be the result of heart valve disease or a clinical intervention to treat heart valve disease. To simulate the blood flow, we use patient-specific data from medical imaging to personalize a finite element model of the left ventricle of the heart. 
 
 ## Week 19
 
-Title: 
-
-Time: 2023-05-11, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract:
+No seminar
 
 ## Week 20
 
