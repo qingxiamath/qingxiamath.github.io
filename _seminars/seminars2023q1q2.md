@@ -162,15 +162,7 @@ Abstract:
 
 ## Week 23
 
-Title: 
-
-Time: 2023-06-08, 14.00-15.00
-
-Speaker: 
-
-Location: 
-
-Abstract:
+No seminar
 
 ## Week 24
 
