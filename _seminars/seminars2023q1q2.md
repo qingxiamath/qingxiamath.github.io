@@ -139,15 +139,14 @@ Holiday, no seminar
 
 ## Week 21
 
+**CANCELED**
+
 Title: TBA
 
-Time: 2023-05-25, 14.00-15.00
+~~Time: 2023-05-25, 14.00-15.00~~
 
 Speaker: Sven-Erik Ekström (Uppsala)
 
-Location: Zoom [https://kth-se.zoom.us/j/63299293349](https://kth-se.zoom.us/j/63299293349)
-
-Abstract: TBA
 
 ## Week 22
 
