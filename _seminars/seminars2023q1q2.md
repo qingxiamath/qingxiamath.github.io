@@ -166,7 +166,7 @@ No seminar
 
 ## Week 24
 
-Title: TBA
+Title: Observer based data assimilation for barotropic Euler equations on networks
 
 Time: 2023-06-15, 14.00-15.00
 
@@ -174,4 +174,10 @@ Speaker: Jan Giesselmann (TU Darmstadt)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract: TBA
+Abstract: In this talk, we discuss state estimation for systems described by barotropic Euler equations on networks. These are a frequently used as models for gas flows in pipeline networks. We are interested in predicting the system state based on a combination of models and measurements that have been taken over a long period of time.
+
+We will consider two scenarios in which the system state can only be measured partially: In the first scenario, measurements can be made only at nodes of the network. In the second scenario, measurements can be made everywhere but just one field, e.g. velocity, can be measured. In both scenarios, we construct so called observers, i.e. models that combine a PDE model that encodes our understanding of the underlying physics with measurement data that are included as boundary data or source terms.
+
+Our goal is to show that the solution of the observer system converges towards the state of the original system exponentially for long times. We achieve this under certain assumptions on the size and regularity of the solution to the original system and restrictions on the network topology. On a technical level, in the first scenario, the proof relies on Riemann invariants and the their evolution along characteristics whereas, in the second scenario, we use estimates on the evolution of an extended relative energy.
+
+This is joint work with Martin Gugat (Erlangen) and Teresa Kunkel (Darmstadt).
