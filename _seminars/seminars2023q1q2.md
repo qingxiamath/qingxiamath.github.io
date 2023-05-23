@@ -147,22 +147,21 @@ Title: TBA
 
 Speaker: Sven-Erik Ekström (Uppsala)
 
-
 ## Week 22
 
-Title: 
-
-Time: 2023-06-01, 14.00-15.00
-
-Speaker: Ludvig af Klinteberg (MDU)
-
-Location: KTH, 3721, Lindstedsvägen 25
-
-Abstract:
+No seminar
 
 ## Week 23
 
-No seminar
+Title: 
+
+Time: 2023-06-08, 14.00-15.00
+
+Speaker: Ludvig af Klinteberg (MDU)
+
+Location: KTH, 3418, Lindstedsvägen 25
+
+Abstract:
 
 ## Week 24
 
