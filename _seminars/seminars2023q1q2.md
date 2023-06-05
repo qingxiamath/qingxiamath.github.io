@@ -5,7 +5,7 @@ collection: seminars
 ---
 
 ## Jump to Date: 
-[Feb 9](#week-6), [Feb 16](#week-7), [Feb 23](#week-8), [Mar 2](#week-9), [Mar 9](#week-10), [Mar 16](#week-11), [Mar 23](#week-12), [Mar 30](#week-13), [Apr 6](#week-14), [Apr 13](#week-15), [Apr 20](#week-16), [Apr 27](#week-17), [May 4](#week-18), [May 11](#week-19), [May 18](#week-20), [May 25](#week-21), [Jun 1](#week-22), [Jun 8](#week-23), [Jun 15](#week-24)
+[Feb 9](#week-6), [Feb 16](#week-7), [Feb 23](#week-8), [Mar 2](#week-9), [Mar 9](#week-10), [Mar 16](#week-11), [Mar 23](#week-12), [Mar 30](#week-13), [Apr 6](#week-14), [Apr 13](#week-15), [Apr 20](#week-16), [Apr 27](#week-17), [May 4](#week-18), [May 11](#week-19), [May 18](#week-20), [May 25](#week-21), [Jun 1](#week-22), [Jun 8](#week-23), [Jun 15](#week-24-talk-1), [Jun 16](#week-24-talk-2)
 
 ## Week 6
 
@@ -165,9 +165,7 @@ Abstract: Integral equation methods provide an efficient way of solving elliptic
 
 I will in this talk introduce a high-order, hybrid integral equation method for the incompressible Navier-Stokes equations in 2D. This method is the first of its kind, and it comes with a couple of attractive features, such as near-optimal scaling, simple geometry handling, and automatic satisfaction of the incompressibility constraint.
 
-## Week 24
-
-### Talk 1
+## Week 24 Talk 1
 Title: Observer based data assimilation for barotropic Euler equations on networks
 
 Time: 2023-06-15, 14.00-15.00
@@ -184,7 +182,7 @@ Our goal is to show that the solution of the observer system converges towards t
 
 This is joint work with Martin Gugat (Erlangen) and Teresa Kunkel (Darmstadt).
 
-### Talk 2
+## Week 24 Talk 2
 
 Title:
 
