@@ -153,7 +153,7 @@ No seminar
 
 ## Week 23
 
-Title: 
+Title: A Hybrid Integral Equation Method for the Navier-Stokes Equations
 
 Time: 2023-06-08, 14.00-15.00
 
@@ -161,7 +161,9 @@ Speaker: Ludvig af Klinteberg (MDU)
 
 Location: KTH, 3418, Lindstedsvägen 25
 
-Abstract:
+Abstract: Integral equation methods provide an efficient way of solving elliptic PDEs to high accuracy, particularly in complex geometries. They are however limited to homogeneous problems, and have in the context of fluid dynamics mainly been used for solving the Stokes equations. Recent years have seen development in the use of integral equation methods also for inhomogeneous problems. In these hybrid methods, the solution is represented as a sum of a layer potential and a volume potential. 
+
+I will in this talk introduce a high-order, hybrid integral equation method for the incompressible Navier-Stokes equations in 2D. This method is the first of its kind, and it comes with a couple of attractive features, such as near-optimal scaling, simple geometry handling, and automatic satisfaction of the incompressibility constraint.
 
 ## Week 24
 
