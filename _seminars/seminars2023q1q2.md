@@ -167,6 +167,7 @@ I will in this talk introduce a high-order, hybrid integral equation method for 
 
 ## Week 24
 
+### Talk 1
 Title: Observer based data assimilation for barotropic Euler equations on networks
 
 Time: 2023-06-15, 14.00-15.00
@@ -182,3 +183,17 @@ We will consider two scenarios in which the system state can only be measured pa
 Our goal is to show that the solution of the observer system converges towards the state of the original system exponentially for long times. We achieve this under certain assumptions on the size and regularity of the solution to the original system and restrictions on the network topology. On a technical level, in the first scenario, the proof relies on Riemann invariants and the their evolution along characteristics whereas, in the second scenario, we use estimates on the evolution of an extended relative energy.
 
 This is joint work with Martin Gugat (Erlangen) and Teresa Kunkel (Darmstadt).
+
+### Talk 2
+
+Title:
+
+Time: 2023-06-16
+
+Speaker: Adrianna Gillman (University of Colorado)
+
+Location: KTH, 3721, Lindstedsvägen 25
+
+Abstract:
+
+
