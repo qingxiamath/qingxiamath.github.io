@@ -8,7 +8,7 @@ author_profile: true
 ## Published
 <ul> 
 	<li>
-		<b>Q. Xia</b>, Local-basis Difference Potentials Method for elliptic PDEs in complex geometry [<a href="https://doi.org/10.1016/j.jcp.2022.111051" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2211.06133" target="_blank">arXiv:2211.06133</a>]
+		<b>Q. Xia</b>, Local-basis Difference Potentials Method for elliptic PDEs in complex geometry, <em>J. Comput. Phys.</em> 488 (2023), 112246 [<a href="https://doi.org/10.1016/j.jcp.2023.112246" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2211.06133" target="_blank">arXiv:2211.06133</a>]
 	</li>
 	<li>
 		<b>Q. Xia</b>, J. W. Banks, W. D. Henshaw, A. V. Kildishev, G. Kovacic, L. J. Prokopeva, and D. W. Schwendeman, High-order accurate schemes for maxwell's equations with nonlinear active media and material interfaces, <em>J. Comput. Phys.</em> 456 (2022), 111051 [<a href="https://doi.org/10.1016/j.jcp.2022.111051" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2108.09519" target="_blank">arXiv:2108.09519</a>]
