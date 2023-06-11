@@ -184,14 +184,29 @@ This is joint work with Martin Gugat (Erlangen) and Teresa Kunkel (Darmstadt).
 
 ## Week 24 Talk 2
 
-Title:
+Title: Fast direct solvers for boundary integral equations
 
-Time: 2023-06-16
+Time: 2023-06-16, 14.00-15.00
 
 Speaker: Adrianna Gillman (University of Colorado)
 
 Location: KTH, 3721, Lindstedsvägen 25
 
-Abstract:
+Abstract: The numerical solution of linear boundary values problems play an 
+important role in the modeling of physical phenomena. As practitioners continue 
+to want to solve more complicated problems, it is important to develop robust 
+and efficient numerical methods.  For some linear boundary value problems, it 
+is possible to recast the problem as an integral equation which sometimes leads 
+to a reduction in dimensionality.  The trade-off for the reduction in dimensionality
+is the need to solve a dense linear system.  Inverting the dense N by N matrix via 
+Gaussian elimination has a computational cost of O(N^3).  This talk presents
+solution techniques that exploit the physics in the boundary integral equation
+to invert the dense matrix for a cost that scales linearly with N with 
+small constants.  For example, on a laptop computer, a matrix with N=100,000 
+can be inverted in 90 seconds and applying the solver takes under a tenth of a second.
+The speed in which new boundary conditions can be processed makes these 
+methods ideal applications involving many solves such as optimal design and 
+inverse scattering.  Extensions of the single body direct solver to select 
+applications will also be presented. In these applications, fast direct solvers observe hundreds of times speedup over previously state of the art techniques.  There will also be a peak at an algorithm that is efficient and accurate for variable media scattering problems.
 
 
