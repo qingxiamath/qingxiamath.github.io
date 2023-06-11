@@ -36,3 +36,9 @@ author_profile: true
 </ul>
 
 ## In preparation
+
+<ul>
+	<li> 
+		Multiscale analysis of nonlinear material models with carrier kinetics
+	</li> 
+</ul>
