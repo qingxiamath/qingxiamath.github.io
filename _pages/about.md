@@ -10,10 +10,8 @@ redirect_from:
 
 Contact
 ======
-Department of Mathematics
-
-KTH Royal Institute of Technology
-
+Department of Mathematics\
+KTH Royal Institute of Technology\
 Stockholm, Sweden
 
 Research Interests
