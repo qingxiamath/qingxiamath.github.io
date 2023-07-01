@@ -18,8 +18,8 @@ main:
   - title: "Misc"
     url: /misc/ 
 
-  - title: "Seminars"
-    url: /seminars/
+  # - title: "Seminars"
+  #   url: /seminars/
     
   # - title: "Portfolio"
   #  url: /portfolio/
