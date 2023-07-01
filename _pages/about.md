@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,8 @@ redirect_from:
 Contact
 ======
 Department of Mathematics
-KTH Royal Institute of Technology, Stockholm, Sweden
+KTH Royal Institute of Technology
+Stockholm, Sweden
 
 Research Interests
 ======
