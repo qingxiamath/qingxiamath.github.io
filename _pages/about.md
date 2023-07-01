@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Dahlquist Research Fellow in Numerical Analysis at Mathematics Department, KTH Royal Institute of Technology. Before coming to KTH, I worked as a postdoctoral research fellow in the group of [Jeff Banks](http://homepages.rpi.edu/~banksj3/), [Gregor Kovacic](http://homepages.rpi.edu/~kovacg/), [Bill Henshaw](http://homepages.rpi.edu/~henshw/) and [Donald Schwendeman](https://homepages.rpi.edu/~schwed/)  on computational nanophotonics. 
-I completed my PhD's degree in Mathematics under the supervision of [Yekaterina Epshteyn](https://www.math.utah.edu/~epshteyn/) at the University of Utah, and my Bachelor's degree in Applied Mathematics at Central University of Finance and Economics in Beijing.
+Contact
+======
+Department of Mathematics
+KTH Royal Institute of Technology, Stockholm, Sweden
 
 Research Interests
 ======
-* High-order accurate numerical methods for PDEs in complex geometry
+* Numerical PDEs in complex geometry
 * Computational nanophotonics
 * Difference potentials method
+* Boundary integral methods
 * Bulk-surface coupling problems
 * Free boundary problems
-* Adaptive and highly scalable parallel numerical algorithms
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
