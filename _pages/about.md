@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -11,7 +11,9 @@ redirect_from:
 Contact
 ======
 Department of Mathematics
+
 KTH Royal Institute of Technology
+
 Stockholm, Sweden
 
 Research Interests
