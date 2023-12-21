@@ -14,7 +14,8 @@ redirect_from:
 * B.S., Central University of Finance and Economics (Beijing, China), July 2012
 
 ## Work experience
-* Dahlquist Research Fellow, September 2021 - 
+* Xiangtan University, September 2023 - 
+* Dahlquist Research Fellow, September 2021 - August 2023
   * KTH Royal Institute of Technology
 * Postdoctoral Research Associate, June 2019 - August 2021
   * Rensselaer Polytechnic Institute
