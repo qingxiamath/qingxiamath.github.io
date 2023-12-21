@@ -14,6 +14,8 @@ Department of Mathematics and Computational Sciences\
 Xiangtan University\
 Xiangtan, Hunan, China
 
+Email: qingxia[at]xtu[dot]edu[dot]cn
+
 Research Interests
 ======
 * Numerical PDEs in complex geometry
