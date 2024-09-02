@@ -10,11 +10,11 @@ redirect_from:
 
 Contact
 ======
-Department of Mathematics and Computational Sciences\
-Xiangtan University\
-Xiangtan, Hunan, China
+Department of Mathematics\
+College of Science, Math & Technology\
+Wenzhou Kean University
 
-Email: qingxia[at]xtu[dot]edu[dot]cn
+Email: qxia[at]kean[dot]edu
 
 Research Interests
 ======
