@@ -18,6 +18,7 @@ author_profile: true
 <ul>
 	<li>Spring 2024: Mathematical Statistics </li>
 </ul>
+
 ### Undergraduate Course
 <ul>
 	<li>Spring 2024: C Programming </li>
@@ -30,11 +31,7 @@ author_profile: true
 	<li>SF2520 Applied Numerical Methods -- Autumn 2022</li>
 </ul>
 
----
----
 ## University of Utah
-
----
 ### Instructor
 <ul>
 	<li>Math 2280: Introduction to Differential Equations -- Summer 2018</li>
@@ -46,7 +43,6 @@ author_profile: true
     <li>Math 1090: College Algebra for Business and Social Sciences -- Spring 2015</li>
 </ul>
 
----
 ### Teaching Assistant
 <ul>
 	<li>Math 1320: Engineering Calculus II -- Spring 2014</li>
