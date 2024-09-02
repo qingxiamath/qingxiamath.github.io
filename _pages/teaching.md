@@ -4,24 +4,25 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## WKU
 
+### Fall 2024
+<ul>
+	<li>Math 2415 W08 Calculus I </li>
+	<li>Math 2415 W10 Calculus I</li>
+	<li>Math 3415 W03 Calculus III </li>
+</ul>
 
 ## XTU
-
----
 ### Graduate Course
 <ul>
 	<li>Spring 2024: Mathematical Statistics </li>
 </ul>
-
----
 ### Undergraduate Course
 <ul>
 	<li>Spring 2024: C Programming </li>
 </ul>
 
----
----
 ## KTH
 ### Teaching Assistant
 <ul>
