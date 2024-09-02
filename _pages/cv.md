@@ -14,7 +14,8 @@ redirect_from:
 * B.S., Central University of Finance and Economics (Beijing, China), July 2012
 
 ## Work experience
-* Xiangtan University, September 2023 - 
+* Wenzhou Kean University, August 2024 - present
+* Xiangtan University, September 2023 - July 2024
 * Dahlquist Research Fellow, September 2021 - August 2023
   * KTH Royal Institute of Technology
 * Postdoctoral Research Associate, June 2019 - August 2021
