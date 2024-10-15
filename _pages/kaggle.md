@@ -5,6 +5,9 @@ permalink: /kaggle/
 author_profile: false
 ---
 
+## Faculty in charge:
+[Dr. Changjiang Zhang](https://csmt.wku.edu.cn/en/node/2046)
+
 ## Introduction
 
 Kaggle is the world's largest online community for data science and machine learning enthusiasts. It provides a collaborative platform where users can access datasets, practice coding, and participate in data science competitions. Established in 2010, Kaggle offers a wide range of challenges, from beginner-friendly projects to advanced competitions hosted by companies like Google, Amazon, and NASA. Kaggle is known for its accessible learning resources, such as tutorials and notebooks, making it an ideal space to develop and sharpen data science skills.
