@@ -18,6 +18,8 @@ The **Interdisciplinary Contest in Modeling (ICM)** and **Mathematical Contest i
 
 * The **MCM**, on the other hand, emphasizes pure mathematical modeling. Teams are given a choice of problems that can range from engineering to the sciences, and they must develop models, analyze data, and interpret results, often with real-world applications.
 
+## Why should you participate?
+
 Participating in ICM and MCM gives students the opportunity to enhance their problem-solving skills, work collaboratively in a high-pressure environment, and apply mathematical theories to practical, often impactful, situations. These competitions not only strengthen mathematical and computational abilities but also foster interdisciplinary thinking and teamwork. Success in such contests can significantly boost a student's academic and professional profile, opening doors to research opportunities, internships, and careers in fields where quantitative analysis is key.
 
 ## Resources
