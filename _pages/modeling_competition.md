@@ -5,8 +5,8 @@ permalink: /competition/
 author_profile: false
 ---
 
-** Kaggle
+## Kaggle
 
-** MCM/ICM
+## MCM/ICM
 
-** CUMCM
+## CUMCM
