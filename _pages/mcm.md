@@ -23,6 +23,6 @@ The **Interdisciplinary Contest in Modeling (ICM)** and **Mathematical Contest i
 Participating in ICM and MCM gives students the opportunity to enhance their problem-solving skills, work collaboratively in a high-pressure environment, and apply mathematical theories to practical, often impactful, situations. These competitions not only strengthen mathematical and computational abilities but also foster interdisciplinary thinking and teamwork. Success in such contests can significantly boost a student's academic and professional profile, opening doors to research opportunities, internships, and careers in fields where quantitative analysis is key.
 
 ## Resources
-[Official website of CUMCM](https://www.mcm.edu.cn/)
-[Official website of MCM/ICM](https://www.contest.comap.com/undergraduate/contests/ )
+* [Official website of CUMCM](https://www.mcm.edu.cn/)
+* [Official website of MCM/ICM](https://www.contest.comap.com/undergraduate/contests/ )
 
