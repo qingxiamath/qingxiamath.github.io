@@ -11,7 +11,7 @@ The list of contests will be periodically updated. Please revisit this page for 
 
 # Announcements
 
-* An introductory workshop will be held at CSMT 126, Oct. 22, 2024 at 1:45pm.
+* An introductory workshop will be held at CSMT 126, Oct. 22, 2024 at 2:35pm.
 
 # Competitions
 
