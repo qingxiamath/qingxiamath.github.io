@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published
 <ul> 
+	<li>
+		<b>Q. Xia</b>, Unfitted boundary algebraic equation method based on difference
+  potentials and lattice Green's function in 3D  [<a href="https://arxiv.org/abs/2502.05507" target="_blank">arXiv:2502.05507</a>]
+	</li>
 	<li>
 		<b>Q. Xia</b>, Local-basis Difference Potentials Method for elliptic PDEs in complex geometry, <em>J. Comput. Phys.</em> 488 (2023), 112246 [<a href="https://doi.org/10.1016/j.jcp.2023.112246" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2211.06133" target="_blank">arXiv:2211.06133</a>]
 	</li>
@@ -28,17 +31,4 @@ author_profile: true
 	<li> 
 		J. Albright, Y. Epshteyn, M. Medvinsky and <b>Q. Xia</b>, High-order numerical schemes based on difference potentials for 2D elliptic problems with material interfaces. <em>Appl. Numer. Math.</em> 111 (2017), 64–91. [<a href="http://dx.doi.org/10.1016/j.apnum.2016.08.017" target="_blank">DOI</a>] [<a href="http://www.math.utah.edu/~epshteyn/APNUM_AEMX.pdf" target="_blank">pdf</a>]
 	</li>
-</ul>
-
-## Submitted
-
-<ul>
-</ul>
-
-## In preparation
-
-<ul>
-	<li> 
-		Multiscale analysis of nonlinear material models with carrier kinetics
-	</li> 
 </ul>
