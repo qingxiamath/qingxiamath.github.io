@@ -7,6 +7,9 @@ author_profile: true
 
 <ul> 
 	<li>
+		<b>Q. Xia</b>, A geometrically robust unfitted boundary algebraic equation method based on discrete potentials and local basis functions  [<a href="https://arxiv.org/abs/2509.01380" target="_blank">arXiv:2509.01380</a>]
+	</li>
+	<li>
 		<b>Q. Xia</b>, Unfitted boundary algebraic equation method based on difference
   potentials and lattice Green's function in 3D  [<a href="https://arxiv.org/abs/2502.05507" target="_blank">arXiv:2502.05507</a>]
 	</li>
