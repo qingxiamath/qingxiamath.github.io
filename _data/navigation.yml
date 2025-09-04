@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Competition in Modeling"
-    url: /modeling/ 
+  # - title: "Competition in Modeling"
+  #   url: /modeling/ 
 
   - title: "Misc"
     url: /misc/ 
