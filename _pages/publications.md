@@ -7,6 +7,9 @@ author_profile: true
 
 <ul> 
 	<li>
+		<b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry  [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
+	</li>
+	<li>
 		<b>Q. Xia</b>, A geometrically robust unfitted boundary algebraic equation method based on discrete potentials and local basis functions  [<a href="https://arxiv.org/abs/2509.01380" target="_blank">arXiv:2509.01380</a>]
 	</li>
 	<li>
