@@ -7,6 +7,9 @@ author_profile: true
 
 <ul> 
 	<li>
+		S. Wang, <b>Q. Xia</b> and Q. Ye, Synthetic Fluency and Epistemic Offloading in Undergraduate Mathematics in the Age of AI  [<a href="https://arxiv.org/abs/2512.21045" target="_blank">arXiv:2512.21045</a>]
+	</li>
+	<li>
 		S. Wang, and <b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry  [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
 	</li>
 	<li>
