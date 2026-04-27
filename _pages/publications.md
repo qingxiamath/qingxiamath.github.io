@@ -10,10 +10,10 @@ author_profile: true
 		S. Wang, <b>Q. Xia</b> and Q. Ye, Synthetic Fluency and Epistemic Offloading in Undergraduate Mathematics in the Age of AI  [<a href="https://arxiv.org/abs/2512.21045" target="_blank">arXiv:2512.21045</a>]
 	</li>
 	<li>
-		S. Wang, and <b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry  [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
+		S. Wang, and <b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry [<a href="[https://doi.org/10.1016/j.jcp.2023.112246](https://doi.org/10.1109/TAP.2026.3684999)" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
 	</li>
 	<li>
-		<b>Q. Xia</b>, A geometrically robust unfitted boundary algebraic equation method based on discrete potentials and local basis functions  [<a href="https://arxiv.org/abs/2509.01380" target="_blank">arXiv:2509.01380</a>]
+		<b>Q. Xia</b>, A geometrically robust unfitted boundary algebraic equation method based on discrete potentials and local basis functions [<a href="https://doi.org/10.1016/j.jcp.2026.114957" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2509.01380" target="_blank">arXiv:2509.01380</a>]
 	</li>
 	<li>
 		<b>Q. Xia</b>, Unfitted boundary algebraic equation method based on difference
