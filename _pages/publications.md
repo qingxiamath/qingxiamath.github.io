@@ -7,10 +7,10 @@ author_profile: true
 
 <ul> 
 	<li>
-		<b>Q. Xia</b> Infinite-lattice discrete Calder\'on projection via the lattice Green's function for active noise shielding and confinement    [<a href="https://arxiv.org/abs/2606.16192" target="_blank">arXiv:2606.16192</a>]
+		<b>Q. Xia</b>, Infinite-lattice discrete Calderon projection via the lattice Green's function for active noise shielding and confinement    [<a href="https://arxiv.org/abs/2606.16192" target="_blank">arXiv:2606.16192</a>]
 	</li>
 	<li>
-		<b>Q. Xia</b> Stabilization and Operator Preconditioning of Bulk--Surface CutFEM via Harmonic Extension   [<a href="https://arxiv.org/abs/2605.06329" target="_blank">arXiv:2605.06329</a>]
+		<b>Q. Xia</b>, Stabilization and Operator Preconditioning of Bulk--Surface CutFEM via Harmonic Extension   [<a href="https://arxiv.org/abs/2605.06329" target="_blank">arXiv:2605.06329</a>]
 	</li>
 	<li>
 		S. Wang, <b>Q. Xia</b> and Q. Ye, Synthetic Fluency and Epistemic Offloading in Undergraduate Mathematics in the Age of AI  [<a href="https://arxiv.org/abs/2512.21045" target="_blank">arXiv:2512.21045</a>]
