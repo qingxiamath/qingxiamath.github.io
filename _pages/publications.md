@@ -26,10 +26,10 @@ author_profile: true
   potentials and lattice Green's function in 3D, <em>Adv. Comput. Math.</em> 52, 78 (2026) [<a href="https://doi.org/10.1007/s10444-026-10346-z" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2502.05507" target="_blank">arXiv:2502.05507</a>]
 	</li>
 	<li>
-		S. Wang, and <b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry, <em>IEEE TAP</em> [<a href="https://doi.org/10.1109/TAP.2026.3684999" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
+		S. Wang, and <b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry, <em>IEEE Transactions on Antennas and Propagation</em>, vol. 74, no. 7, pp. 6740-6747, July 2026 [<a href="https://doi.org/10.1109/TAP.2026.3684999" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
 	</li>
 	<li>
-		<b>Q. Xia</b>, A geometrically robust unfitted boundary algebraic equation method based on discrete potentials and local basis functions, <em>J. Comput. Phys.</em> 561, 114957 (2026)[<a href="https://doi.org/10.1016/j.jcp.2026.114957" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2509.01380" target="_blank">arXiv:2509.01380</a>]
+		<b>Q. Xia</b>, A geometrically robust unfitted boundary algebraic equation method based on discrete potentials and local basis functions, <em>J. Comput. Phys.</em> 561（2026）, 114957[<a href="https://doi.org/10.1016/j.jcp.2026.114957" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2509.01380" target="_blank">arXiv:2509.01380</a>]
 	</li>
 	<li>
 		<b>Q. Xia</b>, Local-basis Difference Potentials Method for elliptic PDEs in complex geometry, <em>J. Comput. Phys.</em> 488 (2023), 112246 [<a href="https://doi.org/10.1016/j.jcp.2023.112246" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2211.06133" target="_blank">arXiv:2211.06133</a>]
