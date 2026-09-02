@@ -23,7 +23,7 @@ author_profile: true
 	</li>
 	<li>
 		<b>Q. Xia</b>, Unfitted boundary algebraic equation method based on difference
-  potentials and lattice Green's function in 3D <em>Adv. Comput. Math.</em> 52, 78 (2026) [<a href="https://doi.org/10.1007/s10444-026-10346-z" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2502.05507" target="_blank">arXiv:2502.05507</a>]
+  potentials and lattice Green's function in 3D, <em>Adv. Comput. Math.</em> 52, 78 (2026) [<a href="https://doi.org/10.1007/s10444-026-10346-z" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2502.05507" target="_blank">arXiv:2502.05507</a>]
 	</li>
 	<li>
 		S. Wang, and <b>Q. Xia</b>, Unfitted Lattice Green's Function Method for Exterior Scattering in Complex Geometry, <em>IEEE TAP</em> [<a href="https://doi.org/10.1109/TAP.2026.3684999" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2511.14346" target="_blank">arXiv:2511.14346</a>]
